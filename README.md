@@ -1,4 +1,5 @@
 Project Structure
+
 So now you have downloaded the project stub and imported it into your IntelliJ IDE. You have also successfully built your project using Maven. This project contains multiple folders.
 
  
